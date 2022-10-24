@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.phone.Wiondows&apos; to &apos;Window&apos;&#x0D;&#x0A;- Original project: &apos;FactoryDesign&apos;&#x0D;&#x0A;- Original element: &apos;com.phone.Wiondows&apos;&#x0D;&#x0A;- Renamed element: &apos;com.phone.Window&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Wiondows&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.phone{Wiondows.java[Wiondows" matchStrategy="1" name="Window" qualified="false" references="true" similarDeclarations="false" stamp="1632008690154" textual="false" version="1.0"/>
+</session>

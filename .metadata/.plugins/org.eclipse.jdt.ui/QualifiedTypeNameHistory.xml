@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.adap.AssignmentWork"/>
+<fullyQualifiedTypeName name="com.adap.Pen"/>
+<fullyQualifiedTypeName name="com.adap.PilotPen"/>
+<fullyQualifiedTypeName name="com.adap.PenAdapter"/>
+<fullyQualifiedTypeName name="com.phone.OperatingSystemFactory"/>
+<fullyQualifiedTypeName name="com.phone.OS"/>
+<fullyQualifiedTypeName name="com.phone.Phone"/>
+<fullyQualifiedTypeName name="com.phone.PhoneBuilder"/>
+<fullyQualifiedTypeName name="com.composite.Compont"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.composite.Leaf"/>
+<fullyQualifiedTypeName name="com.composite.Component"/>
+<fullyQualifiedTypeName name="com.composite.Composite"/>
+</qualifiedTypeNameHistroy>
